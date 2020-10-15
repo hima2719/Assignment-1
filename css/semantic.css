@@ -1,0 +1,23 @@
+body {
+	background: #FAA104;
+	font: bold;
+	color: black;
+}
+
+
+
+.box-1{
+	text-align: left;
+	text-transform: uppercase;
+    
+
+}
+
+.box-2{
+	text-align: right;
+	text-transform: uppercase;
+    border:5%;
+    padding: 1%;
+    margin: 2%;
+
+}
